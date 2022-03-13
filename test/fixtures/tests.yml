@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  grade: 1
+  user_id: 1
+  questions: MyText
+  subject: MyText
+  points: 1
+
+two:
+  title: MyText
+  grade: 1
+  user_id: 1
+  questions: MyText
+  subject: MyText
+  points: 1
